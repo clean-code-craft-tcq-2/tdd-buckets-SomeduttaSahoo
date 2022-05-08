@@ -15,3 +15,4 @@ jobs:
 
     - name: Check duplications
       run: jscpd . --min-lines 3 --min-tokens 35 --threshold 0
+      
